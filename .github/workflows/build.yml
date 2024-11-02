@@ -39,3 +39,4 @@ jobs:
       - name: Archivo covertura
         run: |
           ls -ltr
+          cat coverage.xml
